@@ -1,5 +1,6 @@
 # interview-questions
 
+
 ## OOP & Procedural Programming Questions
 
 Describe how Object Oriented Programming differ from Procedural Programming?
@@ -50,6 +51,7 @@ What is the difference between Require and Include in PHP?
 
 Discuss the importance of sanitizing user input in a procedural PHP application.
 
+<br/><br/><br/>
 
 ## Database Questions
 
@@ -80,6 +82,7 @@ What is Composite Key?
 
 What is Candidate Key?
 
+<br/><br/><br/>
 
 ## Laravel Questions
 
