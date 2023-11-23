@@ -14,7 +14,7 @@ What are Final Methods?
 
 What is Polymorphism?
 
-What is Encapsulation?What are the different ways of running tasks asynchronously in Laravel?
+What is Encapsulation?
 
 What is Abstraction?
 
