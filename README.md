@@ -1,6 +1,4 @@
 # Interview Questions
-xkcmknjx cz
-mzzz[xz';x
 <br/><br/>
 
 ## OOP & Procedural Programming Questions
