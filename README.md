@@ -79,6 +79,8 @@ What is the difference between VIEW and CURSOR in database?
 
 What is Chunk?
 
+How to find duplicate data in table. Write a query.
+
 What is Composite Key?
 
 What is Candidate Key?
@@ -182,6 +184,16 @@ How do you perform database transactions in Laravel?
 Explain the concept of rate limiting in Laravel routes.
 
 What are the ways to implement multi-authentication in Laravel?
+
+What is Laravel Passport?
+
+Which protocol or authorization framework used by Laravep Passport?
+
+What is OAuth2?
+
+What is the difference between OAuth 2.0 and OAuth 1.0?
+
+Explain the work flow of OAuth2.
 
 Discuss the significance of user password hashing in Laravel.
 
