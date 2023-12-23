@@ -1,7 +1,4 @@
-# Interview Questions
-<br/><br/>
-
-## Principles and Best Practices
+# Principles and Best Practices Interview Questions
 
 Discuss the `SOLID` principles.
 

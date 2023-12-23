@@ -1,7 +1,4 @@
-# Interview Questions
-<br/><br/>
-
-## OOP & Procedural Programming Questions
+# OOP & Procedural Programming Interview Questions
 
 Describe how Object Oriented Programming differ from Procedural Programming?
 
