@@ -187,7 +187,7 @@ What are the ways to implement multi-authentication in Laravel?
 
 What is Laravel Passport?
 
-Which protocol or authorization framework used by Laravep Passport?
+Which protocol or authorization framework used by Laravel Passport?
 
 What is OAuth2?
 
@@ -196,6 +196,8 @@ What is the difference between OAuth 2.0 and OAuth 1.0?
 Explain the work flow of OAuth2.
 
 Discuss the significance of user password hashing in Laravel.
+
+Which algorithm is used in Laravel for password hashing?
 
 How does Task Scheduling work in Laravel?
 
