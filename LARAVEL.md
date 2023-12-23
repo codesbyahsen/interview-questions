@@ -1,7 +1,4 @@
-# Interview Questions
-<br/><br/>
-
-## Laravel Questions
+# Laravel Interview Questions
 
 What is Composer?
 

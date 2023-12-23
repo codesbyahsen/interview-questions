@@ -1,7 +1,4 @@
-# Interview Questions
-<br/><br/>
-
-## HTML Questions
+# HTML Interview Questions
 
 What are Semantic Tags?
 

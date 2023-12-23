@@ -1,7 +1,4 @@
-# Interview Questions
-<br/><br/>
-
-## PHP Questions
+# PHP Interview Questions
 
 What is the difference between PHP and HTML?
 

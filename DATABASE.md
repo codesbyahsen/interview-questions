@@ -1,7 +1,4 @@
-# Interview Questions
-<br/><br/>
-
-## Database Questions
+# Database Interview Questions
 
 Differentiate between SQL and NoSQL databases. Can you provide examples of each type?
 
