@@ -1,3 +1,5 @@
+# Scenarios Oftenly Asked in Interviews
+
 In vue js we usually store "access token" in local storage, and after compilation of vue js an app.js file created in which all js of application written, if an attacker can break that app.js then he can also access the "api access token" from localstorage. How can we secure our access token from that attacker in case of app.js breakthrough?
 
 Suppose you have an Excel Sheet or CSV File having data. How can you handle the missing values while uploading to the database that are not null-able? And how do you handle exceptions?
