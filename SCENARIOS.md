@@ -11,3 +11,7 @@ In production, if a user encounters an exception that you are not experiencing o
 Write a function that takes a number as input, for example, 9, and returns 10; if passed 10, it should return 9. Ensure not to use any conditional statements in the implementation.
 
 Suppose there are eight balls with same colors and volumes, but one ball is slightly heavier than the others. You have a scale that allows you to check the weight of a ball, and you can use the scale only two times. How would you determine which ball is the heavier one?
+
+What is thread in programming language?
+
+What is concurrent programming?

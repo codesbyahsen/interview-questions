@@ -2,11 +2,21 @@
 
 What is Composer?
 
+How do you use package installed by composer in Laravel?
+
+What is PSR-4?
+
 What is Artisan?
 
 Describe the Request Life-cycle in laravel.
 
+What is the disk space occupied by the Laravel boilerplate?
+
 How to set Maintenance Mode in Laravel?
+
+If other frameworks like CodeIgniter, Symfony is faster than Laravel, then why we prefer Laravel framework?
+
+How do you optimize Laravel?
 
 What are Facades?
 
