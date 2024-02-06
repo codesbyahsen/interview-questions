@@ -12,3 +12,4 @@ You will find:
 - [Principles & Best Practices Questions](https://github.com/codesbyahsen/interview-questions/blob/main/CODE_PRINCIPLES.md)
 - [Laravel Questions](https://github.com/codesbyahsen/interview-questions/blob/main/LARAVEL.md)
 - [Scenarios](https://github.com/codesbyahsen/interview-questions/blob/main/SCENARIOS.md)
+- [Git Questions](https://github.com/codesbyahsen/interview-questions/blob/main/GIT.md)
