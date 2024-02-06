@@ -12,6 +12,10 @@ Write a function that takes a number as input, for example, 9, and returns 10; i
 
 Suppose there are eight balls with same colors and volumes, but one ball is slightly heavier than the others. You have a scale that allows you to check the weight of a ball, and you can use the scale only two times. How would you determine which ball is the heavier one?
 
+Let's say there are two water bottles: one can contain 5 liters, and the other can contain 3 liters of water. On the other side, there is a large water tank with plenty of water. Now, I want to extract exactly 4 liters of water, and there are no measurement tools or equipment available. You can use multiple iterations to pour water.
+
+Suppose there are multiple interviews held in a queue, and the number of interviewees is "X". Your number is 12 when counted in ascending order and 17 when counted in descending order. What would be the value of X? Or how many interviewees are there?
+
 What is thread in programming language?
 
 What is concurrent programming?
