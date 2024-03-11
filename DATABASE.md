@@ -47,5 +47,13 @@ Construct SQL queries to perform common tasks such as:
 - Joining multiple tables
 
 Explain the purpose and advantages of using indexes in databases.
+what is diff b/w clustered index and simple index
 
 Explain the ACID properties of transactions.
+Is Mysql is case-sensitive.
+
+What is view and stored procedeure and what is diffrence b/w them
+what are the myslq functions and diff b/w functions stored proceedure
+How can we recover our corrupted data in mysql
+Unique kye vs primary key
+How can we optimize large table (using partitionig)
