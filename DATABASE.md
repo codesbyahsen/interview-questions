@@ -21,7 +21,9 @@ What do you understand by Data Redundancy?
 What are the different types of Normalization?
 1NF, 2NF, 3NF
 
-What is a stored procedure in a database, and why might you use one?
+What is a STORED PROCEDURE in a database, and why might you use one?
+
+What is the difference between VIEW and STORED PROCEDURE?
 
 What is the difference between VIEW and CURSOR in database?
 
@@ -47,13 +49,15 @@ Construct SQL queries to perform common tasks such as:
 - Joining multiple tables
 
 Explain the purpose and advantages of using indexes in databases.
-what is diff b/w clustered index and simple index
+
+What is difference between Clustered Index and Simple Index?
 
 Explain the ACID properties of transactions.
-Is Mysql is case-sensitive.
 
-What is view and stored procedeure and what is diffrence b/w them
-what are the myslq functions and diff b/w functions stored proceedure
-How can we recover our corrupted data in mysql
-Unique kye vs primary key
-How can we optimize large table (using partitionig)
+Is MySQL case-sensitive?
+
+What are the MySQL Functions and difference between Functions Stored Proceedure.
+
+How can we recover our corrupted data in MySQL?
+
+How can we optimize large table (using partitionig)?
