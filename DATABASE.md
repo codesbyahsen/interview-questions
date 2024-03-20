@@ -61,3 +61,9 @@ What are the MySQL Functions and difference between Functions Stored Proceedure.
 How can we recover our corrupted data in MySQL?
 
 How can we optimize large table (using partitionig)?
+
+What is Foreign Key Constraint?
+
+What are Storage Engines and which are usually used in MySQL?
+
+What is Table Collation?
