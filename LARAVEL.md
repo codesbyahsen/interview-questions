@@ -201,3 +201,5 @@ What is API Resource?
 If TABLE A has a "hasOne" relationship with TABLE B, and TABLE B has a "hasMany" relationship with TABLE C, how would we fetch the record from TABLE A along with its related data from TABLE B and the associated records from TABLE C?
 
 Why would we use differenct classes like Service class, Action class, etc. Whats need for different type of classes.
+
+What is difference between gates and policies?
