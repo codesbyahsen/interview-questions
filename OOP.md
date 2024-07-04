@@ -47,3 +47,5 @@ Explain the use of the implode() and explode() functions in PHP. Provide example
 What is the difference between Require and Include in PHP?
 
 Discuss the importance of sanitizing user input in a procedural PHP application.
+
+What is difference between interface and abstract class.
